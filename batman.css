@@ -1,0 +1,270 @@
+body {
+	background: black;
+	color: white;
+}
+
+/* pour modifier le menu */
+ul {
+  list-style-type:none;
+  margin-left: 900px;
+  padding: 0px;
+  overflow: hidden;
+}
+
+li {
+  float: left;
+  display:block;
+  text-align: center;
+  padding: 16px;
+}
+
+li:hover{
+	text-decoration-line:underline;
+	cursor: pointer;
+}
+
+/* pour modifier le logo */
+.logohome{
+	position: absolute;
+	margin-top: 50px;
+	margin-left: 150px;
+	
+}
+
+.logohome:hover{
+	background-color: yellow;
+}
+
+/* pour modifier les boutons heros et adversaires */
+.hero{
+	position: absolute;
+	margin-top: 400px;
+	margin-left: 400px;
+	padding: 10px 50px 10px 50px;
+	background-color: rgb(255 255 255 / 0.5);
+}
+
+.adversaire{
+	position: absolute;
+	margin-top: 400px;
+	margin-left: 650px;
+	padding: 10px 50px 10px 50px;
+	background-color: rgb(255 255 255 / 0.5);
+}
+
+/* pour modifier la fleche */
+.flèche_down_header{
+	position: absolute;
+	margin-top: 600px;
+	margin-left: 580px;
+}
+
+/* pour modifier logo batman fleche */
+.logo_bat_flèche{
+	position: absolute;
+	margin-top: 410px;
+	margin-left: 1050px;
+}
+
+.logo_bat_flèche_2{
+	position: absolute;
+	margin-top: 100px;
+	margin-left: 1050px;
+}
+/* pour modifier icon instagramme twitter facebook */
+.icon_ig{
+	position: absolute;
+	margin-top: 190px;
+	margin-left: 1089px;
+}
+
+.icon_tw{
+	position: absolute;
+	margin-top: 280px;
+	margin-left: 1089px;
+}
+
+.icon_facebook{
+	position: absolute;
+	margin-top: 360px;
+	margin-left: 1089px;
+}
+
+/* pour modifier le résumer */
+.pbatman{
+	color: white;
+	position: absolute;
+	margin-top: 660px;
+	margin-left: 560px;
+	font-size: 43px;
+}
+
+/* pour modifier la photo du résumer */
+.batman{
+	position: absolute;
+	margin-top: 800px;
+	margin-left: 200px;
+}
+
+/* pour modifier le batarang */
+.Bathome13{
+	position: absolute;
+	margin-top: 1360px;
+	margin-left: 660px;
+}
+
+/* pour modifier le titre némésis */
+.pnemesis{
+	position: absolute;
+	margin-top: 1360px;
+	margin-left: 560px;
+	font-size: 43px;
+}
+
+/* modifier les ennemies de batman */
+.nemesis{
+	position: absolute;
+	margin-top: 1500px;
+	margin-left: 200px;
+}
+
+/* pour modifier batman qui est au dessu des alliés */
+.batmanpause{
+	position: absolute;
+	margin-top: 1940px;
+	margin-left: 799px;
+
+}
+
+/*  pour modifier le titre des allies */
+.pallie{
+	position: absolute;
+	margin-top: 2000px;
+	margin-left: 560px;
+	font-size: 43px;
+}
+
+/* pour modifier les photos des alliés */
+.allie{
+	position: absolute;
+	margin-top: 2200px;
+	margin-left: 200px;
+}
+
+/* pour modifier le titre justice league */
+.pjustice{
+	position: absolute;
+	margin-top: 2700px;
+	margin-left: 560px;
+	font-size: 43px;
+}
+
+/* pour modifier la photo justice league */
+.Bathome11{
+	position: absolute;
+	margin-top: 2900px;
+	margin-left: 19px;
+}
+
+/* pour modifier multimedia */
+.pmultimedia{
+	position: absolute;
+	margin-top: 3500px;
+	margin-left: 560px;
+	font-size: 43px;
+}
+
+/* pour modifier la photo batman qui vol */
+.Bathome_ba1{
+	position: absolute;
+	margin-top: 3700px;
+	margin-left: 400px;
+}
+
+/*pour modifier le résumé */
+.batmanparagraphe{
+	position: absolute;
+	margin-top: 3700px;
+	margin-left: 560px;
+}
+
+/* pour modifier le trailer batman */
+.Bathome_ba2{
+	position: absolute;
+	margin-top: 4000px;
+	margin-left: 19px;
+}
+
+.adresse{
+	position: absolute;
+	margin-top: 4700px;
+	margin-left: 400px;
+}
+
+.newsletter{
+	position: absolute;
+	margin-top: 4720px;
+	margin-left: 400px;
+}
+
+.validationcarre{
+	position: absolute;
+	margin-top: 4753px;
+	margin-left: 1030px;
+}
+
+.boutonfilm{
+	position: absolute;
+	margin-top: 4810px;
+	margin-left: 400px;
+}
+
+.boutoncomics{
+	position: absolute;
+	margin-top: 4810px;
+	margin-left: 470px;
+}
+
+.boutontouts{
+	position: absolute;
+	margin-top: 4810px;
+	margin-left: 550px;
+}
+
+.boutonconfirmer{
+	position: absolute;
+	margin-top: 4860px;
+	margin-left: 400px;
+}
+/* pour modifier le paragraphe du joker */
+.paragraphejoker{
+	position: absolute;
+	margin-top: 4950px;
+	margin-left: 130px;
+}
+
+.icon_WB{
+	position: absolute;
+	margin-top: 5370px;
+	margin-left: 200px;
+}
+
+.icon_WB:hover{
+	background-color: yellow;
+}
+
+.parawb{
+	position: absolute;
+	margin-top: 5355px;
+	margin-left: 240px;
+}
+
+.logo_sayna_white{
+	position: absolute;
+	margin-top: 5440px;
+	margin-left: 530px;
+}
+
+.logo_sayna_white:hover{
+	background-color: yellow;
+}
